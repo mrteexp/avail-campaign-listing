@@ -1,0 +1,8 @@
+{
+  "name": "my_app_chain",
+  "logo": "https://placehold.co/400x400",
+  "rpc_url": "https://127.0.0.1:9944",
+  "explorer_url": "https://127.0.0.1:4000",
+  "metrics_endpoint": "https://127.0.0.1:9615",
+  "id": "942ff35e-f048-4"
+}
